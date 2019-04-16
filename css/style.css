@@ -62,6 +62,13 @@ hr {
     font-size: 1.2em;
   }
 
+  div {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+  }
+
 /* END OF HOME PAGE */
 /********** Large devices only **********/
 @media (min-width: 1200px) {
